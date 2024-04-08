@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an end-to-end hiring platform on Elixir/Phoenix<br>👯 I’m looking to collaborate on Elixir Projects<br>🌱 I’m currently learning React<br>💬 Ask me about Backend stuffs
+🔭 I’m currently working on an Elixir/Phoenix<br>👯 I’m looking to collaborate on Elixir Projects<br>🌱 I’m currently learning React<br>💬 Ask me about Backend stuffs
 
 
 ## 🌐 Socials:
